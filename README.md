@@ -22,6 +22,8 @@
 - [Animations & Effects](https://learntheweb.courses/topics/css-animations-effects/)
 - [Animate.css](https://animate.style/)
 - [Animations & Effects Cheat Sheet](https://learntheweb.courses/topics/css-animations-effects-cheat-sheet/)
+- [Transition explained](https://www.youtube.com/watch?v=rzD-cPhq02E)
+- [Animation explained](https://www.youtube.com/watch?v=YszONjKpgg4)
 - [Using Multiple Backgrounds](https://css-tricks.com/css-basics-using-multiple-backgrounds/)
 - [Linear Gradient](https://cssgradient.io/)
 - [Patterns Galery](https://projects.verou.me/css3patterns/)
